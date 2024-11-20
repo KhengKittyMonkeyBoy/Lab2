@@ -25,7 +25,7 @@ result = calculate_bmi(weight="57", height="1.73")
 result = calculate_bmi(weight="457", height="1.4")
 result = calculate_bmi(weight="57", height="1.90")
 
-print("Result=",result)
+print ("Result=" , result)
 
 
 
